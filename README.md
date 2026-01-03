@@ -1,4 +1,4 @@
-# Employee Analytics
+# Company Employee Analytics
 
 ## Background
 - Employee job satisfaction affects the performance, retention, and well-being of the company
@@ -22,7 +22,7 @@ old
 ### Employee's overtime affects job satisfaction
 - Most departments have 13-20% of the employees taking overtime
 
-##Recommendation
+## Recommendation
 - Continue the hiring process by maintaining diversity, experience, and productivity of the employee
 - Improve work-life balance by flexible work and time management training
 - Reduce workload and stress by better task distribution and hiring support in overworked departments
