@@ -21,6 +21,8 @@ old
 - High workload and stress are linked to lower satisfaction, and work-life balance is highly essential for maintaining satisfaction, and is one of the most desired attributes of a workplace today.
 ### Employee's overtime affects job satisfaction
 - Most departments have 13-20% of the employees taking overtime
+- - Marketing, Customer Service, and IT departments have their job satisfaction below average
+- The IT department has the lowest job satisfaction score, where 77% of employees are taking overtime
 
 ## Recommendation
 - Continue the hiring process by maintaining diversity, experience, and productivity of the employee
@@ -28,5 +30,3 @@ old
 - Reduce workload and stress by better task distribution and hiring support in overworked departments
 - Analyse the overtime department (IT) and offer compensation or staff adjustment
 - Monitor and track the job satisfaction of employees through surveys
-- Marketing, Customer Service, and IT departments have their job satisfaction below average
-- The IT department has the lowest job satisfaction score, where 77% of employees are taking overtime
